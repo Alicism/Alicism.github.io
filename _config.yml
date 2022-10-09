@@ -10,7 +10,7 @@
 
 title: Kwontum Lab
 email: 
-description: a minimalistic jekyll theme for academics
+description: 
 baseurl:                                       # the subpath of your site, e.g. /blog
 url: "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/avatar/avatar.png               # used to generate site link preview
