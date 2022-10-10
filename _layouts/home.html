@@ -113,19 +113,6 @@ layout: default
             {% elsif section.name == "Teaching" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
-                    {% for courses in site.data. %}
-                    <div class="list-group">
-                      <div class="list-group-item list-group-item-action">
-                        <div class="d-flex w-100 justify-content-between">
-                          <h5 class="mb-1">{{ courses.Schoool }}</h5>
-                          <p>{{ courses.Program }}</p>
-                          <small>{{ courses.StartDate }} - {{ courses.EndDate }}</small>
-                        </div>
-                        <p class="mb-1">{{ courses.description }}</p>
-                        <small>{{ courses.Department }}</small>
-                      </div>
-                    </div>
-                    {% endfor %}
               </div>
             {% elsif section.name == "Coursework" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
