@@ -9,7 +9,7 @@ image: http://placehold.it/750X300?text=Header+Image # for local images, place i
 caption:
 last-updated: 2022-10-10 20:01:21 -0400
 categories: post
-tag: Moment Tensor Potential (MTP), Nuclear quantum effects, Hydrogen in metals
+tag: Moment Tensor Potentials
 author: Hyukjoon Kwon
 card: card-2
 ---

@@ -1,14 +1,3 @@
----
-layout: page
-permalink: /about.html
-title: About Me
-description: Get to know what I'm up too
-header-img: 
-last-updated: 2022-10-10 5:55 PM
----
-<h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
-
-
 # Hyukjoon Kwon
 
 *Department of Nuclear Engineering, College of Engineering, Seoul National University, Seoul, 08826, Republic of Korea*
