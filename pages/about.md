@@ -6,22 +6,25 @@ description: Get to know what I'm up too
 header-img: 
 last-updated: 2022-10-10 5:55 PM
 ---
-<h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
-
 
 # Hyukjoon Kwon
 
-*Department of Nuclear Engineering, College of Engineering, Seoul National University, Seoul, 08826, Republic of Korea*
+[*Department of Nuclear Engineering, College of Engineering, Seoul National University, Seoul, 08826, Republic of Korea*](https://nucleng.snu.ac.kr/en/)
 
 ![KakaoTalk_20221008_172813130_08](/assets/img/About_me.jpg)
 
+
+PHONE: 82-10-4213-0327<br/>
+E-MAIL: bagho27@snu.ac.kr
+
+
+<br/><br/><br/>
 
 
 ##### **Current Research Interests**
 
 - Molecular Dynamics
-- Ab
-
+- Ab-initio calculation
 - Forcefield development
 
 
