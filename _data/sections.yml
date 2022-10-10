@@ -1,0 +1,14 @@
+- name: Publications
+  id: publications
+  description: Submitted
+  url: publications.html
+  first: true
+
+
+- name: Presentations
+  id: projects
+  description: Conference & Workshops
+  content: 
+  url: projects.html
+  first: false
+
