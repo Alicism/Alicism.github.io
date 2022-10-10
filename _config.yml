@@ -92,7 +92,6 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
   - jekyll-environment-variables
-  - jekyll-include-cache
 sass:
   sass_dir: _sass
   style: compressed
