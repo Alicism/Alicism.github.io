@@ -89,7 +89,6 @@ kramdown:
   syntax_highlighter: rouge
 
 plugins:
-  - jekyll-bibliography
   - jekyll-feed
   - jekyll-scholar
   - jekyll-environment-variables
