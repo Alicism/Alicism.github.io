@@ -77,7 +77,7 @@ layout: default
             {% if section.name == "Publications" %}
               <div class="tab-pane active overflow-auto" id="{{section.id}}" role="tabpanel">
                 <p><i>{{section.description}}</i></p>
-                <p class="card-text">{% bibliography -f papers %}</p>
+                <p class="card-text">{% bibliography/papers.bib %}</p>
               </div>
             {% else %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel">
@@ -88,7 +88,7 @@ layout: default
             {% if section.name == "Presentations" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
-                <p class="card-text">{% bibliography -f presentations %}</p>              
+                <p class="card-text">{% bibliography/presentations.bib %}</p>              
               </div>
             {% elsif section.name == "Projects" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
