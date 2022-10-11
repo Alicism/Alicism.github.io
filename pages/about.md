@@ -23,7 +23,7 @@ E-MAIL: bagho27@snu.ac.kr
 
 ##### **Current Research Interests**
 
-- Molecular Dynamics
+- Path Integral Molecular Dynamics (PIMD)
 - Ab-initio calculation
 - Forcefield development
 

@@ -6,11 +6,10 @@
 
 
 
-##### **Current Research Interests**
+##### **My Research Interests**
 
-- Molecular Dynamics
-- Ab
-
+- Path Integral Molecular Dynamics (PIMD)
+- Ab-initio quantum chemistry calculations
 - Forcefield development
 
 
