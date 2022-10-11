@@ -12,5 +12,8 @@ last-updated: 2020-10-30 5:55 PM
   </div>
 </div>
 
+*Submitted*
 
-
+1. **Accurate description of hydrogen diffusivity in bcc metals using machine-learning moment tensor potentials and path-integral methods**
+   - Hyukjoon Kwon, Motoyuki Shiga, Hajime Kimizuka, Takuji Oda*
+   - Preprint
