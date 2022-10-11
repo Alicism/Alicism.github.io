@@ -9,8 +9,7 @@
 ##### **My Research Interests**
 
 - Path Integral Molecular Dynamics (PIMD)
-- Ab-initio quantum chemistry calculations
-- Forcefield development
+- Machine Learning Interatomic Potential (MLIP)
 
 
 
