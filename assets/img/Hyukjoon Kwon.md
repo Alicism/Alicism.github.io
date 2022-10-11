@@ -6,12 +6,10 @@
 
 
 
-##### **Current Research Interests**
+##### **My Research Interests**
 
-- Molecular Dynamics
-- Ab
-
-- Forcefield development
+- Path Integral Molecular Dynamics (PIMD)
+- Machine Learning Interatomic Potential (MLIP)
 
 
 
