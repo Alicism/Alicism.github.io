@@ -17,8 +17,8 @@ card: card-2
 # 1. Moment Tensor Potentials (MTP)
 
 - A type of machine learning interatomic potentials (MLIP).
-- For mathematical definition of MTP, read Ref. [1]  
-- If you want to learn active learning of MTP, read Ref. [2]
+- For mathematical definition of MTP, read Ref. [1].
+- If you want to learn active learning of MTP, read Ref. [2].
 
 # 2. Hydrogen diffusion in bcc metals.
 
@@ -31,7 +31,7 @@ Developer's comments:
 
 ### 2.1.1. For public
 
-Ref [3].
+For validation and generation process, please read Ref. [3].
 
 ###### [Niobium (**Nb**): pot_NbH_bulk.mtp](https://drive.google.com/file/d/1_IPQdBVMCilcIC2Mk-dPVRQFPfzlv0Tz/view?usp=sharing)
 
@@ -56,13 +56,15 @@ Developer's comments:
 - I'm trying to estimate dilute hydrogen solubility by direct molecular dynamics simulations.
 - It's being tested.
 
-Molybdenum (**Mo**): pot_MoH_vacuum.mtp
+###### Molybdenum (**Mo**): pot_MoH_vacuum.mtp
 
-Tungsten (**W**): pot_WH_vacuum.mtp
+###### Tungsten (**W**): pot_WH_vacuum.mtp
 
-Iron (**Fe**): pot_FeH_vacuum.mtp
+###### Iron (**Fe**): pot_FeH_vacuum.mtp
 
-### 
+###### 
+
+
 
 -----------------------------------------
 
