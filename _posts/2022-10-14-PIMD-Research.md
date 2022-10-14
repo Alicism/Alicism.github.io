@@ -16,7 +16,7 @@ card: card-1
 
 
 
-# 1. Outline
+# 1. Introduction
 
 ​		Hydrogen diffusivity in metals has been extensively investigated due to its rich physical characteristics and importance in materials engineering. Many experimental studies have been devoted to various metals; however, there are often large deviations in the reported diffusion coefficients because of surface and trapping effects, which indicates that accurate measurements are inherently difficult, especially at low temperatures. 
 
@@ -28,7 +28,7 @@ card: card-1
 
 # 2. Hydrogen diffusivity in bcc metals
 
-### 2.1. Target quantity
+### 2.1. Outline
 
 - Diffusion coefficients of H, D, and T in bcc Nb, Fe, W, Mo over 100 K.
 
@@ -36,25 +36,50 @@ card: card-1
 
 ### 2.2. Animation
 
-<img alt="" src="/assets/img/posts/Animation_diffusion.gif" style="width:250px; height:200px;"/>
-
-  
+  <p align="center" style="color:gray">
+  <img src="/assets/img/posts/Animation_diffusion.gif" style="padding: 0;margin:0;width:250px; height:200px;"></p>
 
 ### 2.3. Results (Mo)
 
-<img alt="" src="/assets/img/posts/H_diffusion_Mo.jpg" style="width:500px; height:475px;"/>
+  <p align="center" style="color:gray">
+  <img src="/assets/img/posts/H_diffusion_Mo.jpg" style="padding: 0;margin:0;width:500px; height:470px;"></p>
 
-  
-
-**Abbreviation**
+   **Abbreviation**
 
 - CLMD: Classical molecular dynamics
 
 - RPMD: Ring polymer molecular dynamics
 
+# 3. Hydrogen solubility in bcc metals
+
+### 3.1.  Outline
+
+- Solubility of H, D, and T in bcc Fe, W, Mo
+- High solution energy barrier was removed.
+
+  <p align="center" style="color:gray">
+  <img src="/assets/img/posts/Solubility_MEP.jpg" style="padding: 0;margin:0;width:400px; height350px;"></p>
+
+
+
+### 3.2. Animation
+
+<p align="center" style="color:gray">
+  <img src="/assets/img/posts/Solubility_Anmiation.gif" style="padding: 0;margin:0;width:250px; height200px;">
+</p>
+
+
+
+### 3.3. Results
+
+  <p align="center" style="color:gray">
+  <img src="/assets/img/posts/H_solution_Fe.jpg" style="padding: 0;margin:0;width:500px; height:470px;"></p>
+
+
+
 --------------
 
 # Reference
 
-Ref [1] [M. Shiga, PIMD, version 2.5.0, (2022).](http://ccse.jaea.go.jp/software/PIMD/ index.en.html.) 
+[1] [M. Shiga, PIMD, version 2.5.0, (2022).](http://ccse.jaea.go.jp/software/PIMD/ index.en.html.) 
 
