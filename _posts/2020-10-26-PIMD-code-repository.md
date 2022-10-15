@@ -40,5 +40,5 @@ Developer's note:
 - Parallelization efficiency of RESPA algorithm was enhanced.
 
     <p align="center" style="color:gray">
-    <img src="/assets/img/posts/RESPA.jpg" style="padding: 0;margin:0;width:500px; height:400px;"></p>
+    <img src="/assets/img/posts/RESPA.JPG" style="padding: 0;margin:0;width:500px; height:400px;"></p>
 
