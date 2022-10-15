@@ -13,6 +13,7 @@ Graduate student in [*<u>Nuclear Materials Moldeling Lab </u>*](http://nmml.snu.
 
 <img alt="" src="/assets/img/quantum_week.jpg" style="width:900px; height:450px;"/>
 
+Nationality: South Korea
 PHONE: 82-10-4213-0327<br/>
 E-MAIL: bagho27@snu.ac.kr
 
