@@ -38,13 +38,18 @@ card: card-1
 
   <p align="center" style="color:gray">
   <img src="/assets/img/posts/Animation_diffusion.gif" style="padding: 0;margin:0;width:250px; height:200px;"></p>
-
 ### 2.3. Results (Mo)
 
   <p align="center" style="color:gray">
   <img src="/assets/img/posts/H_diffusion_Mo.jpg" style="padding: 0;margin:0;width:500px; height:470px;"></p>
+  Results
 
-   **Abbreviation**
+- Only Dr. Katsuta's data seem to represent **bulk diffusivity** since its activation energy is similar to my MD results.
+- Dr. Katsuta's preexponential factors are comparable to my MD results at high temperature. However, it's uncertain which one is more accurate.
+
+
+
+ **Abbreviation**
 
 - CLMD: Classical molecular dynamics
 
@@ -74,6 +79,13 @@ card: card-1
 
   <p align="center" style="color:gray">
   <img src="/assets/img/posts/H_solution_Fe.jpg" style="padding: 0;margin:0;width:500px; height:470px;"></p>
+
+
+Results
+
+- My solubility model produces quite similar results to experimental data.
+- However, experimental data from gas permeation techniques are sometimes very unreliable, so more careful review is required. 
+
 
 
 
